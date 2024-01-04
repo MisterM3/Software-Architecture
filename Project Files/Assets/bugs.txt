@@ -1,0 +1,3 @@
+#KNOWN BUGS
+
+3. UpgradeUI doens't load correctly first time
